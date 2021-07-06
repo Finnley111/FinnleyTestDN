@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Deeznuts;
         Deeznuts2.5;
+        DeezNUTS 3;
     }
 }
